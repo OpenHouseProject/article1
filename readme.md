@@ -9,27 +9,27 @@
 ## ✨ Features (Planned & Current)
 
 
-Latest news
-Unblocked games
-Map for new students and for people looking for walks
-Suggestions for pupils
-Latest news
+## Latest news
+## Unblocked games
+## Map for new students and for people looking for walks
+## Suggestions for pupils
+## Latest news
 
 -----
 
 ## 🌐 Live Demo
 
-You can visit the current version of the site directly on the web:
+## You can visit the current version of the site directly on the web:
 
-https://sites.google.com/view/openhproject
+## https://sites.google.com/view/openhproject
 
 -----
 
 ## 🛠️ Technologies Used
 
-HTML5: For the site's structure and content.
-CSS3 For styling and layout.
-Javascript For all site logic and interactivity.
+## HTML5: For the site's structure and content.
+## CSS3 For styling and layout.
+## Javascript For all site logic and interactivity.
 
 
 -----
